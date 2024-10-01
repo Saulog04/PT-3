@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(233, 224, 224);
+    justify-content: flex;
+    align-items: center;
+    display: flex;
+    left: auto ;
+    right: auto;
+}
+
+.button{
+    font-size: 50px;
+    margin: auto;
+    justify-content: left;
+    align-items: left;
+    text-align: right;
+    
+}
+
+
+.container{
+    width: 50;
+    margin:100px;
+    padding: 60px;
+    background-color: rgb(21, 152, 212);
+    border: 3px solid #ddd;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    display: center;
+    text-align: center;
+
+}
+
